@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this formalization."
+title: VectCluster-Lean
+type: software
+authors:
+  - family-names: Liu
+    given-names: Tianle
+repository-code: "https://github.com/tianle-liu/VectCluster-Lean"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: Algebraic Vector Bundles on Cluster Varieties
+  authors:
+    - family-names: Liu
+      given-names: Haoyang
+    - family-names: Liu
+      given-names: Tianle
+  year: 2026
+  journal: arXiv
+  volume: "2610.12748"
+  url: "https://arxiv.org/abs/2610.12748"

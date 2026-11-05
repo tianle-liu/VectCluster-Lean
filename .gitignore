@@ -1,0 +1,8 @@
+.lake/
+.DS_Store
+*.log
+.env
+.env.*
+.vscode/
+*.olean
+*.ilean
